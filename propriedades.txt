@@ -1,0 +1,29 @@
+Principais propriedades:
+
+color: cor do texto. Ex: color: #FFF000;.
+
+font-family: Precedência de fontes Por exemplo: font-family: "Trebuchet MS", Arial, Tahoma, sans-serif;.
+
+font-size: tamanho do texto. Utilizar unidades como px (pixels), em (unidade relativa), %, pt (pontos), entre outras. Ex: font-size: 20px.
+
+font-weight: peso da fonte. Valores incluem bold e normal. Ex: font-weight: bold;
+
+font-style: estilo da fonte. Valores incluem italic e normal. Ex: font-style: italic;.
+
+text-decoration: decoração do texto. Valores incluem underline e none (por ex: para retirar o sublinhado de links). Ex: text-decoration: underline;.
+
+line-height: altura de cada linha, ou entrelinha. É comum utilizar a unidade em, pois assim deixamos a entrelinha proporcional ao tamanho da fonte. Ex: line-height: 1.5em; (1.5 vezes o tamanho da fonte).
+
+text-indent: indentação da primeira linha de um bloco de texto. Ex: text-indent: 2em; (indentação de 2 vezes o tamanho da fonte na primeira linha do texto).
+
+text-transform: caixa alta ou caixa baixa. Valores incluem uppercase (caixa-alta), lowercase (caixa-baixa) e capitalize (primeira letra maíuscula e o restante minúsculas). Ex: text-transform: uppercase;.
+
+font-variant: variantes da fonte. Valores incluem normal e small-caps (versalete). Ex: font-variant: small-caps;.
+
+word-spacing: determina o espaçamento entre palavras. Ex: word-spacing: 5px;
+
+letter-spacing: determina o espaçamento entre letras. Ex: letter-spacing: 2px;
+
+
+
+Fonte: https://guilhermemuller.com.br/ead/html-css-na-pratica/principais-propriedades-texto-css

@@ -1,0 +1,31 @@
+p {
+    color: #7d4c91;
+    font-family: "Trebuchet MS", Arial, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    /*font-style: italic; */   /*texto ignorado/comentado*/
+    text-decoration: underline;
+    line-height: 1.5em;
+    text-indent: 2em;
+    text-transform: uppercase;
+    font-variant: small-caps;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    background-color: whitesmoke;
+
+}
+#radio1 {
+    color: blueviolet;
+}
+
+.checkbox {
+    color: red;
+}
+
+.div1 {
+    
+    background-color: rgb(230, 43, 43);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(66, 73, 173);
+}
